@@ -1,4 +1,3 @@
 *.o
 dwm
 dwm-setstatus
-log/
