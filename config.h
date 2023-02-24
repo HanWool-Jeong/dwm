@@ -44,6 +44,7 @@ static const Rule rules[] = {
 	{ "hwp.exe",  						NULL,  				NULL, 					1 << 6,       	0,           -1 },
 	{ "hwp",  							NULL,  				NULL, 					1 << 6,       	0,           -1 },
 	{ "Code",  							NULL,  				NULL, 					1 << 4,       	0,           -1 },
+	{ "Steam",  						NULL,  				NULL, 					1 << 7,       	0,           -1 },
 	{ "Pavucontrol",  					NULL,       		NULL,       			0,      		1,           -1 },
 	{ "Blueman-manager",  				NULL,       		NULL,       			0,      		1,           -1 },
 	{ "firefox",  						"Toolkit",       	"화면 속 화면", 	   	0,      		1,           -1 },
