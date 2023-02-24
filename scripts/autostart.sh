@@ -6,7 +6,7 @@ picom --config .config/picom.conf &
 nm-applet &
 blueman-applet &
 pasystray &
-dunst -config ~/.config/dunst/dunstrc &
+dunst -config ~/dwm/dunst/dunstrc &
 nitrogen --restore &
 greenclip daemon > /dev/null &
 
