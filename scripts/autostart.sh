@@ -2,7 +2,7 @@
 
 setxkbmap -option korean:ralt_hangul -option korean:rctrl_hanja &
 fcitx5 -d &
-picom --config .config/picom.conf &
+picom --config ~/dwm/picom/picom.conf &
 nm-applet &
 blueman-applet &
 pasystray &
